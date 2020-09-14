@@ -77,9 +77,4 @@
 # end
 # }
 
-# all_dishes.each {|three_dishes|
-# counter = 1
-# three_dishes.each {|dish| Dish.create(name: dish, restaurant_id: counter}
-# counter += 1
-# }
-# Restaurant.find
+
